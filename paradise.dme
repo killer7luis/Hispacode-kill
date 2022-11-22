@@ -1202,7 +1202,6 @@
 #include "code\game\verbs\switch_server.dm"
 #include "code\game\verbs\webmap.dm"
 #include "code\game\verbs\who.dm"
-#include "code\hispania\modules\mob\living\silicon\robot\robot.dm"
 #include "code\modules\admin\admin.dm"
 #include "code\modules\admin\admin_investigate.dm"
 #include "code\modules\admin\admin_memo.dm"
